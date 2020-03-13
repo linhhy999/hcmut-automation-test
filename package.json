@@ -12,12 +12,10 @@
   },
   "keywords": [
     "test",
+    "automationtest",
     "automation",
-    "automation",
-    "test",
     "jest",
-    "unit",
-    "test",
+    "unittest",
     "hcmut",
     "selenium"
   ],
