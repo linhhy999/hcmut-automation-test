@@ -1,0 +1,35 @@
+{
+  "name": "hcmut-automation-test",
+  "version": "1.0.0",
+  "description": "Automation test with Selenium and Jest",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhhy999/hcmut-automation-test.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "automation",
+    "test",
+    "jest",
+    "unit",
+    "test",
+    "hcmut",
+    "selenium"
+  ],
+  "author": "Linh Hy <hyphamngoclinh99@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linhhy999/hcmut-automation-test/issues"
+  },
+  "homepage": "https://github.com/linhhy999/hcmut-automation-test#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  },
+  "devDependencies": {}
+}
